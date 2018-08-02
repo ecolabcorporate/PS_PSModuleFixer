@@ -23,7 +23,7 @@ This came about when updating azureRM commandlets.
 You can update your AzureRM commandlets to the latest published version with this command:
 
 ```
-Update-Module -Name AzureRM
+Update-Module -Name AzureRM -Force
 ```
 
 
